@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "testbotrate"
+version = "0.1.0"
+description = ""
+authors = ["FoxBigotry <bazangaa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "^3.13.1"
+pydantic = "^2.9.2"
+pydantic-settings = "^2.5.2"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

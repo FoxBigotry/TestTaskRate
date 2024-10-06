@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+.idea
+.env
+.env.dev
+.coverage
+.vscode/
+
+test.py
+*.session
+*.log
+
+venv/
+ENV/
+.venv
